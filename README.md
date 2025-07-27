@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Goal Planner
 
 A modern React application for tracking financial goals and savings progress. Built with Vite and React, featuring a beautiful UI and full CRUD operations for managing goals and deposits.
@@ -158,3 +159,6 @@ src/
 ## License
 
 This project is open source and available under the MIT License.
+=======
+# phase-2-project-smart-goal-planner
+>>>>>>> 3cad7a11669b6cd380fcc4b7c7a3b0f692688ab5
